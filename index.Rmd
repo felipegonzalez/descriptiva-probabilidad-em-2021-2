@@ -1,0 +1,47 @@
+--- 
+title: "Estadística Descriptiva y Probabilidad"
+author: "Felipe González"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Introducción a análisis descriptivo y exploratorio y probabilidad"
+---
+
+# Temario
+
+
+1. Introducción al análisis de datos: objetivos y tipos de análisis
+2. Técnicas para describir datos univariados numéricos y categóricos
+3. Métodos para describir datos bivariados: mediciones categóricas
+4. Métodos para describir datos bivariados: mediciones continuas
+5. Introducción al cálculo de probabilidades y su papel en el análisis de datos
+6. Reglas básicas para operar con probabilidades. Básicos de simulación 
+8. Probabilidad condicional e independencia
+9. Modelos probabilísticos para variables discretas
+10. Modelos probabilísticos para variables continuas 
+11. Familias útiles de densidades de probabilidad
+12. Análisis de datos con modelos probabilísticos. Simulación 
+
+
+## Material
+
+- El código para este curso está [en este repositorio de github](https://github.com/felipegonzalez/descriptiva-probabilidad-em-2021-otoño). 
+- [Notas de clase](https://descriptiva-probabilidad-em-2021-2.netlify.app/index.html).
+- Usaremos también Rstudio cloud para hacer prácticas optativas
+
+
+## Complementos
+
+Algunos buenos complementos para este curso pueden ser
+
+- [Visualizing Data](https://books.google.com.mx/books/about/Visualizing_Data.html?id=V-dQAAAAMAAJ&redir_esc=y), de William S. Cleveland
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [A First Course in Probability](https://books.google.com.mx/books?id=Bc1FAQAAIAAJ&q=first+course+in+probability+sheldon+ross&dq=first+course+in+probability+sheldon+ross&hl=es&sa=X&ved=2ahUKEwjggJ-SrOrvAhVD-6wKHZ1EAckQ6AEwAHoECAIQAg), Sheldon Ross
+- Una guía de  [básicos de manipulación de datos con R](https://itsalocke.com/files/DataManipulationinR.pdf)
+
+## Instructor
+
+- [Felipe González](https://github.com/felipegonzalez)
